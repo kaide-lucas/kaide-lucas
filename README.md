@@ -8,7 +8,7 @@
 - Pronomes: ele/dele
 
 <p align="left">
-    <a href="https://www.youtube.com/@larissakich?sub_confirmation=1">
+    <a href="https://www.youtube.com/@kaidev_">
         <img 
             alt="youtube subscribers" 
             title="Inscreva-se no meu canal" 
@@ -26,7 +26,7 @@
         <img 
             alt="Total de estrelas" 
             title="Total de estrelas GitHub" 
-            src="https://custom-icon-badges.demolab.com/github/stars/Larissakich?color=55960c&style=for-the-badge&labelColor=488207&logo=star&label=estrelas"
+            src="https://custom-icon-badges.demolab.com/github/stars/kaide_lucas?color=55960c&style=for-the-badge&labelColor=488207&logo=star&label=estrelas"
         />
     </a>
     <a href="https://github.com/kaide-lucas?tab=followers">
