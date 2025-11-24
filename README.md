@@ -1,12 +1,12 @@
-# Olá eu sou o Kaide Lucas
+# Kaide Lucas
 - Atualmete estou cursando Engenharia de software
 - Estudo HTML, CSS, Shell, JavaScript e C
 - Contate-me no email: kaidejeronimo35@gmail.com
 - Pronomes: ele/dele
 <p align="center">
  <img width="100px" src="https://res.cloudinary.com/anuraghazra/image/upload/v1594908242/logo_ccswme.svg" align="center" alt="GitHub Readme Stats" />
- <h2 align="center">GitHub Readme Stats</h2>
- <p align="center">Get dynamically generated GitHub stats on your READMEs!</p>
+ <h2 align="center">GitHub Status</h2>
+ <p align="center">Estatisticas</p>
 </p>
   <p align="center">
     <a href="https://github.com/anuraghazra/github-readme-stats/actions">
