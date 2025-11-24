@@ -1,4 +1,4 @@
-# 👩🏻‍💻 Kaide Lucas
+# Kaide Lucas
 
 **`Desenvolvedor`**
 
